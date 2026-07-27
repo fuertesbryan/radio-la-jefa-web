@@ -1,0 +1,37 @@
+# Scripts locales de Windows
+*.bat
+*.cmd
+
+# Archivos de construcción y binarios Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+apache-maven-*/
+
+# Dependencias y construcciones de Node.js / Next.js
+node_modules/
+.next/
+out/
+build/
+dist/
+
+# Archivos de entorno y logs
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema y editores de código
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
