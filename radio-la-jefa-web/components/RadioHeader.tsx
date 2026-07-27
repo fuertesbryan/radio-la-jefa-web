@@ -10,7 +10,7 @@ export function RadioHeader() {
     <header className="bg-blue-900 text-white shadow-md">
       {/* Barra superior de información académica */}
       <div className="bg-blue-950 text-blue-200 text-xs py-1.5 px-6 border-b border-blue-800 flex flex-wrap justify-between items-center">
-        <span>UTPL — Prácticum 3 (Desarrollo de Aplicaciones Nativas en la Nube)</span>
+        <span>UTPL — DESARROLLO DE APLICACIONES NATIVAS EN CLOUD</span>
         <div className="space-x-4">
           <span>Estudiante: <strong>Bryan Fuertes</strong></span>
           <span>Empresa: <strong>Radio La Jefa</strong></span>

@@ -6,7 +6,7 @@
 * Estudiante: Bryan Fuertes
 * Usuario de GitHub: fuertesbryan
 * Correo Electrónico: fuertesbryan48@gmail.com
-* Asignatura: Desarrollo de Aplicaciones Nativas en la Nube
+* Asignatura: DESARROLLO DE APLICACIONES NATIVAS EN CLOUD
 * Componente: Prácticum 3 / Taller APEB2 (30%)
 * Carrera: Ingeniería en Tecnologías de la Información / Desarrollo de Software
 
@@ -94,11 +94,3 @@ El sistema se compone de dos componentes desacoplados:
    ```
 3. La interfaz web estará accesible en `http://localhost:3000`.
 
----
-
-## Despliegue en Railway
-
-1. Subir el repositorio completo a GitHub.
-2. En la plataforma Railway, crear un nuevo proyecto conectado al repositorio.
-3. Para el backend, seleccionar la raíz del repositorio y configurar la ruta del proyecto en la carpeta `/api`.
-4. Para el frontend, crear un servicio vinculado a la carpeta `/radio-la-jefa-web` y configurar la variable de entorno `NEXT_PUBLIC_API_URL` apuntando al dominio público asignado al servicio backend.
